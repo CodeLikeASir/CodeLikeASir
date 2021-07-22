@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jan aka @CodeLikeASir
+- 👀 I’m interested in Game Development and Machine Learning
+- 🌱 I’m currently learning Shader Programming and Tensorflow.
+- 📫 How to reach me: jan.meissner22@gmail.com
